@@ -15,5 +15,4 @@ Let's think about writing
 ### Week One
 
 - Gonsalez, Marcos S. ["When ‘Good Writing’ Means ‘White Writing’"](https://electricliterature.com/when-good-writing-means-white-writing/)
-
-### Week Two
+- Lorde, Audre. 
