@@ -15,4 +15,4 @@ Let's think about writing
 ### Week One
 
 - Gonsalez, Marcos S. ["When ‘Good Writing’ Means ‘White Writing’"](https://electricliterature.com/when-good-writing-means-white-writing/)
-- Lorde, Audre. 
+- Lorde, Audre. "The Master's Tools Will Never Dismantle the Master's House," *Sister Outsider*. Crown Publishing, 1984. 
