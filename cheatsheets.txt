@@ -1,0 +1,15 @@
+echo is for repeating things
+cat is for reading files
+mv is for moving files
+ls is for listing files and folders in the directory
+cd ~ is for changing directory to home folder
+cd .. is for changing directory to previous folder
+pwd is for printing working directory
+>> is for redriecting and appending command
+| sort is for sorting
+| wc -w is word count, | wc -l is for line count
+
+make change to vscode >> save file 
+git add filename [[staging--local machine, my laptop]]
+git commit -m "message" [[committing--local machine]]
+git push origin master [[to push it to github]]
